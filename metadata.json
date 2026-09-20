@@ -1,0 +1,6 @@
+{
+  "name": "Bảo tàng Lịch sử Tương tác STEAM",
+  "description": "Cố vấn Giáo dục STEAM & Giám tuyển Bảo tàng Lịch sử - Địa lý Việt Nam, tích hợp Tiếng Anh lớp 8 Unit 5 và 5 vùng biển Việt Nam theo Luật Biển 2012.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
